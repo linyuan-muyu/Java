@@ -8,7 +8,12 @@ print(message)
 name = "ada lovelace"
 print(name.title())
 <<<<<<< HEAD
+<<<<<<< HEAD
 //test
 =======
 //同步测试
 >>>>>>> 同步测试
+=======
+//同步测试
+//test
+>>>>>>> 11:29测试
