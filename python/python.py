@@ -7,4 +7,3 @@ message = "教练，我又又想学python了。。。。。。"
 print(message)
 name = "ada lovelace"
 print(name.title())
-'''CESHI '''
