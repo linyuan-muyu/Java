@@ -8,4 +8,4 @@ print(message)
 name = "ada lovelace"
 print(name.title())
 print('你好世界')
-print("1024 * 768", "=", 1024*768)
+print("1024 * 768", "=", 1024*768),
